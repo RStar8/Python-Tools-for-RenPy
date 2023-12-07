@@ -1,0 +1,1 @@
+python delete_images_in_list.py
